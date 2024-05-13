@@ -7,5 +7,6 @@ Choose the cutest cats
 Run following command in terminal.
 
 ```
+npm install
 npm run dev
 ```
